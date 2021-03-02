@@ -1,0 +1,99 @@
+= Zhengyang Wang
+
+~~~
+{}{img_left}{DSC0006.JPG}{photography}{186}{255}
+*Zhengyang Wang, Ph.D. Candidate*\n
+[https://engineering.tamu.edu/cse/index.html Department of Computer Science and Engineering]\n
+[https://www.tamu.edu/ Texas A&M University]\n
+Harvey R. Bright Building, Room 520\n
+College Station, TX 77843-3112\n
+Phone: (206)482-7478\n
+E-mail: [zhengyang.wang@tamu.edu]\n
+Github: [https://github.com/zhengyang-wang]\n
+[https://scholar.google.com/citations?user=A4fNBtEAAAAJ Google Scholar]
+~~~
+
+~~~
+{}{img_left}{https://static.licdn.com/scds/common/u/img/webpromo/btn_viewmy_160x33.png}{}{160}{33}{https://www.linkedin.com/pub/zhengyang-wang/61/934/1a8}
+~~~
+
+== Short Biography
+I am currently a Ph.D. candidate in Computer Science at Texas A&M University. My advisor is [https://engineering.tamu.edu/cse/profiles/Ji-Shuiwang.html Dr. Shuiwang Ji], who leads the Data Integration, Visualization, and Exploration (DIVE) Laboratory. My research interests include machine learning, data mining and deep learning.
+
+== News
+- Our paper "Noise2Same: Optimizing A Self-Supervised Bound for Image Denoising" has been accepted to *NeurIPS 2020*!
+- *I have passed my dissertation defense!* I will join Amazon as an applied scientist in Jan, 2021!
+- Our paper "CorDEL: A Contrastive Deep Learning Approach for Entity Linkage" has been accepted to *ICDM 2020*!
+- Our paper "Second-Order Pooling for Graph Neural Networks" has been accepted to IEEE Transactions on Pattern Analysis and Machine Intelligence (*TPAMI*)!
+- Our paper "Kronecker Attention Networks" has been accepted to *KDD 2020*!
+
+== Education
+- Ph.D., Computer Science, [https://www.tamu.edu/ Texas A&M University], Aug 2018 - Present
+- Ph.D. Student, Computer Science, [https://wsu.edu/ Washington State University], May 2016 - July 2018
+- M.S., Mathematics and Computer Science, [http://www.nyu.edu/ New York Univeristy], August 2013 - May 2015
+- B.S., Information and Computational Mathematics, [http://www.nju.edu.cn/english/ Nanjing University], September 2009 - June 2013
+- Non-degree Exchange program, Applied Mathematics and Statistics, [http://www.stonybrook.edu/sb/far-beyond/ Stony Brook University], August 2012 - December 2012
+
+== Selected Projects
+- [https://github.com/zhengyang-wang/sopool-gnns Second-Order Pooling for Graph Neural Networks]
+- [https://github.com/zhengyang-wang/GVTNets Global Voxel Transformer Networks for Augmented Microscopy]
+- [https://github.com/zhengyang-wang/3D-Unet--Tensorflow Isointense Infant Brain Image Segmentation]
+- [https://github.com/zhengyang-wang/Deeplab-v2--ResNet-101--Tensorflow Semantic Image Segmentation]
+
+== Publications
+=== Conference Papers
+- Yaochen Xie, *Zhengyang Wang*, and Shuiwang Ji\nNoise2Same: Optimizing A Self-Supervised Bound for Image Denoising\nAdvances in Neural Information Processing Systems (*NeurIPS*), x-x, 2020
+- *Zhengyang Wang*, Bunyamin Sisman, Hao Wei, Xin Luna Dong, and Shuiwang Ji\nCorDEL: A Contrastive Deep Learning Approach for Entity Linkage\nProceedings of the 20th IEEE International Conference on Data Mining (*ICDM*), x-x, 2020\n\[[https://arxiv.org/abs/2009.07203 paper]]
+- Hongyang Gao, *Zhengyang Wang*, and Shuiwang Ji\nKronecker Attention Networks\nProceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (*KDD*), x-x, 2020\n\[[https://arxiv.org/abs/2007.08442 paper]]
+- *Zhengyang Wang*, Na Zou, Dinggang Shen, and Shuiwang Ji\nNon-Local U-Net for Biomedical Image Segmentation\nProceedings of the 34th AAAI Conference on Artificial Intelligence (*AAAI*), 6315-6322, 2020\n\[[https://aaai.org/ojs/index.php/AAAI/article/view/6100/5956 paper]]\[[https://github.com/zhengyang-wang/3D-Unet--Tensorflow code]]
+- *Zhengyang Wang*, Hao Yuan, and Shuiwang Ji\nSpatial Variational Auto-Encoding via Matrix-Variate Normal Distributions\nProceedings of the 2019 SIAM International Conference on Data Mining (*SDM*), 648-656, 2019\n\[[https://arxiv.org/abs/1705.06821 paper]]\[[https://github.com/divelab/svae code]]
+- Hongyang Gao, *Zhengyang Wang*, and Shuiwang Ji\nChannelNets: Compact and Efficient Convolutional Neural Networks via Channel-Wise Convolutions\nAdvances in Neural Information Processing Systems (*NeurIPS*), 5203-5211, 2018\n\[[https://arxiv.org/abs/1809.01330 paper]]\[[https://github.com/HongyangGao/ChannelNets code]]
+- *Zhengyang Wang*, and Shuiwang Ji\nSmoothed Dilated Convolutions for Improved Dense Prediction\nProceedings of the 24th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (*KDD*), 2486-2495, 2018\n*Best Paper Award Nomination*\n\[[https://dl.acm.org/citation.cfm?id=3219944 paper]]\[[https://github.com/divelab/dilated code]]
+- Hongyang Gao, *Zhengyang Wang*, and Shuiwang Ji\nLarge-Scale Learnable Graph Convolutional Networks\nProceedings of the 24th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (*KDD*), 1416-1424, 2018\n\[[https://dl.acm.org/citation.cfm?id=3219947 paper]]\[[https://github.com/divelab/lgcn code]]
+- Lei Cai, *Zhengyang Wang*, Hongyang Gao, Dinggang Shen, and Shuiwang Ji\nDeep Adversarial Learning for Multi-Modality Missing Data Completion\nProceedings of the 24th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (*KDD*), 1158-1166, 2018\n\[[https://dl.acm.org/citation.cfm?id=3219963 paper]]\[[https://github.com/divelab/completion code]]
+- *Zhengyang Wang*, and Shuiwang Ji\nLearning Convolutional Text Representations for Visual Question Answering\nProceedings of the 2018 SIAM International Conference on Data Mining (*SDM*), 594-602, 2018\n\[[https://epubs.siam.org/doi/abs/10.1137/1.9781611975321.67 paper]]\[[https://github.com/divelab/vqa-text code]]
+
+=== Journal Articles
+- *Zhengyang Wang*, and Shuiwang Ji\nSecond-Order Pooling for Graph Neural Networks\nIEEE Transactions on Pattern Analysis and Machine Intelligence (*TPAMI*), 2020\n\[[https://ieeexplore.ieee.org/document/9104936 paper]]\[[https://github.com/zhengyang-wang/sopool-gnns code]]
+- Hongyang Gao, *Zhengyang Wang*, and Shuiwang Ji\nChannelNets: Compact and Efficient Convolutional Neural Networks via Channel-Wise Convolutions\nIEEE Transactions on Pattern Analysis and Machine Intelligence (*TPAMI*), 2020\n\[[https://ieeexplore.ieee.org/abstract/document/9007485 paper]]
+- Yi Liu, Hao Yuan, *Zhengyang Wang*, and Shuiwang Ji\nGlobal Pixel Transformers for Virtual Staining of Microscopy Images\nIEEE Transactions on Medical Imaging (*TMI*), 39(6): 2256-2266, 2020\n\[[https://ieeexplore.ieee.org/abstract/document/8964264 paper]]
+- Hongyang Gao, Hao Yuan, *Zhengyang Wang*, and Shuiwang Ji\nPixel Transposed Convolutional Networks\nIEEE Transactions on Pattern Analysis and Machine Intelligence (*TPAMI*), 42(5): 1218-1227, 2020\n\[[https://ieeexplore.ieee.org/document/8618415 paper]]\[[https://github.com/HongyangGao/PixelTCN code]]
+- Hao Yuan, Lei Cai, *Zhengyang Wang*, Xia Hu, Shaoting Zhang, and Shuiwang Ji\nComputational Modeling of Cellular Structures using Conditional Deep Generative Networks\n*Bioinformatics*, 35(12): 2141-2149, 2019\n\[[https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/bty923/5162747 paper]]\[[https://github.com/divelab/cgan code]]
+
+== Awards
+- Texas A&M Institute of Data Science Graduate Travel Grants, 2019
+- KDD Best Paper Award Nomination, 2018
+- KDD Student Travel Award, 2018
+- Alfred Suksdorf Scholarship, Washington State University, 2016
+- China’s National People’s Scholarship, Nanjing University, 2010, 2011, 2012
+
+== Services
+=== Program Committee Member
+- The 33rd AAAI Conference on Artificial Intelligence (*AAAI*), 2019
+- The 23rd Pacific-Asia Conference on Knowledge Discovery and Data Mining (*PAKDD*), 2019
+- The 28th ACM International Conference on Information and Knowledge Management (*CIKM*), 2019
+- The 34th AAAI Conference on Artificial Intelligence (*AAAI*), 2020
+- The 8th International Conference on Learning Representations (*ICLR*), 2020
+- The 24th Pacific-Asia Conference on Knowledge Discovery and Data Mining (*PAKDD*), 2020
+- The 37th International Conference on Machine Learning (*ICML*), 2020
+- The 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (*KDD*), 2020
+- The 34th Conference on Neural Information Processing Systems (*NeurIPS*), 2020
+- The 35th AAAI Conference on Artificial Intelligence (*AAAI*), 2021
+- The 9th International Conference on Learning Representations (*ICLR*), 2021
+- The 25th Pacific-Asia Conference on Knowledge Discovery and Data Mining (*PAKDD*), 2021
+
+=== Journal Reviewer
+- IEEE Transactions on Neural Networks and Learning Systems (*TNNLS*)
+- ACM Transactions on Knowledge Discovery from Data (*TKDD*)
+- BMC Bioinformatics
+
+== Teaching
+=== Guest lectures at Texas A&M University
+- Attention Mechanism, Fall 2019: CSCE 636: Neural Networks
+- Attention Mechanism, Fall 2018: CSCE 636: Neural Networks
+
+=== Guest lectures at Washington State University
+- Introduction to Neural Networks, Spring 2018: CPTS 437: Introduction to Machine Learning
+- Introduction to Neural Networks, Spring 2017: CPTS 483: Introduction to Machine Learning
+- Support Vector Machine, Spring 2017: CPTS 483: Introduction to Machine Learning
+
